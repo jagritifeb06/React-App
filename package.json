@@ -1,0 +1,14 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "This is React component",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jagriti Bhardwaj",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
